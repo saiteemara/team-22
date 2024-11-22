@@ -7,7 +7,7 @@ class calci {
     public static void main(String[] args) throws FileNotFoundException {
         // Load file
     	
-        File file = new File("C:\\teja\\file.txt");
+        File file = new File("C:\\sai\\file.txt");
         Scanner scanner = new Scanner(file);
 
         // Read numbers and operation from file
